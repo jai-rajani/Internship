@@ -86,6 +86,7 @@ class _DocumentsState extends State<Documents> {
     //Navigator.pop(context);
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.black,
 
         title: Text('My Documents'),
           actions: <Widget>[

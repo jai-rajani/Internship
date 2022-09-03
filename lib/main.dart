@@ -229,7 +229,8 @@ class _MyHomePageState extends State<MyHomePage> {
 
     return Scaffold(
       appBar: AppBar(
-
+        backgroundColor: Colors.black,
+        centerTitle: true,
         title: Text(
             'PawSense',
         style: TextStyle(
