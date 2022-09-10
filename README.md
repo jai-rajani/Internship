@@ -1,6 +1,7 @@
-# Internship
+#Pawsense
 
 Flutter project to upload,download and view all documents of a user's pets.
+<br>
 ![image](https://user-images.githubusercontent.com/82721312/189477373-e4ccb58e-87d1-464b-bca2-564d723b0703.png)
 <br>
 ![image](https://user-images.githubusercontent.com/82721312/189477401-61d000c8-d963-46e1-87d5-3598a1cd4fda.png)
